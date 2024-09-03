@@ -10,7 +10,7 @@ Software Engineering systematically applies engineering principles, methods, and
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. Development of programming languages e.g. C and Fortran. C led to creation of Windows Operating Systems.
 2. Agile Methodologies -  These allow collaboration and response to change.
-3. Advent of structured programming
+3. Advent of structured programming  
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirements: Gathering and documenting user needs and system requirements.
